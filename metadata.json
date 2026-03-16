@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow",
+  "description": "A simple Kanban board application to manage tasks.",
+  "requestFramePermissions": []
+}
